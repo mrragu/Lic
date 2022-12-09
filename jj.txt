@@ -1,0 +1,38 @@
+<em>muthuramlingam</em> ----> italic(emphasize)
+<p>this is all about me</p> ----->pragraph
+<h1>header1</h1>  ----->header 1
+<h2>header2</h2>  
+.
+.
+.
+<h6>header6</h6> ----->6 header
+<h1><em>this is first</em></h1>----two are more used for italic and header
+<p class="check">hai iam used</p> ---->attribute in the used check 
+<a href="www.google.com">welcome to google</a> --->used for link angertap
+title="google" ---->is used for tooltip in mouse over
+target="blank" ---->next page open blank page
+<a href="www.google.com" title="google" target="blank">welcome to google</a>
+<input type="text">---->textbox
+Entername<input type="text" disabled>---->disable by textbox
+< lessthen   -------------> &gt;
+> graterthan -------------> &lt;
+" quotes     -------------> &quot;
+' apostrophe -------------> &apos;
+& ampersand  -------------> &amp;
+character entity
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
