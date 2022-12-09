@@ -21,6 +21,8 @@ Entername<input type="text" disabled>---->disable by textbox
 & ampersand  -------------> &amp;
 character entity
 
+<html>
+</html>
 
 
 
