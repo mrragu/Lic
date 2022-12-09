@@ -20,21 +20,5 @@ Entername<input type="text" disabled>---->disable by textbox
 ' apostrophe -------------> &apos;
 & ampersand  -------------> &amp;
 character entity
-
 <html>
 </html>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
